@@ -1,5 +1,3 @@
-//vetor a de 6 posições
-
 #include <stdio.h>
 int main(){
     int var = 0;
